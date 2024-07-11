@@ -3,7 +3,7 @@
 REPOSITORY OF TEXTFSM TEMPLATES FOR NETWORK DEVICES
 
 
-[@maxjiang153] (https://www.github.com/maxjiang153)
+[maxjiang153] (https://www.github.com/maxjiang153)
 
 NTC-Templates contains a set of multi-vendor templates based around TEXTFSM parsing engine.
 
