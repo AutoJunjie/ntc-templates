@@ -3,9 +3,7 @@
 REPOSITORY OF TEXTFSM TEMPLATES FOR NETWORK DEVICES
 
 
-[maxjiang153] (https://www.github.com/maxjiang153)
-
-NTC-Templates contains a set of multi-vendor templates based around TEXTFSM parsing engine.
+[maxjiang153](https://www.github.com/maxjiang153)
 
 These templates take the raw string input from the CLI of network infrastructure devices, such as Cisco IOS, Juniper JUNOS
 or HPE Comware devices, run them through a TEXTFSM template and return structured text in the form of a Python dictionary.
